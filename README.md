@@ -46,7 +46,7 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
-![Screenshot 2024-10-28 090028](https://github.com/user-attachments/assets/9d0053e5-283e-4184-89a8-cea000c51b6f)
+![image](https://github.com/user-attachments/assets/1aca1216-5f27-4074-97a7-d408ed0b1e24)
 
 ### Name: PREM KUMAR G
 ### Register Number: 212223230158
