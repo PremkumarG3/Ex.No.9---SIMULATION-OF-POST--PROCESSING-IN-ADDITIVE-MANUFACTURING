@@ -34,19 +34,19 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![Screenshot 2024-11-23 122900](https://github.com/user-attachments/assets/4f669620-a075-4285-aebe-abdf03282eb0)
+![Screenshot 2024-11-23 122909](https://github.com/user-attachments/assets/7d28fe37-a0ec-4170-a881-d580e1af2a0f)
+
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![Screenshot 2024-11-23 122920](https://github.com/user-attachments/assets/c2602728-52cd-4c4e-a199-3e080c3adbce)
+![Screenshot 2024-11-23 122930](https://github.com/user-attachments/assets/dfe61569-2f96-400c-a03f-df6a7e07ea55)
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![Screenshot 2024-11-23 122948](https://github.com/user-attachments/assets/560ce4f2-7121-443d-be71-72a64631b95d)
+![Screenshot 2024-11-23 122948](https://github.com/user-attachments/assets/c173fa69-7ddd-4e92-ac2f-1d412d32d8c0)
 
 ## Output:
-
 
 ![ex 6 2 1](https://github.com/user-attachments/assets/939ab922-0dad-49d6-9186-5d13a784ca84)
 ![ex 6 2 2](https://github.com/user-attachments/assets/9dcf2429-2e05-4513-9f9d-ae7d0c2a519e)
