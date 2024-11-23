@@ -34,17 +34,23 @@
 ## OUTPUT :
 
 ## Support Removal Process
+
 ![Screenshot 2024-11-23 122900](https://github.com/user-attachments/assets/4f669620-a075-4285-aebe-abdf03282eb0)
+
 ![Screenshot 2024-11-23 122909](https://github.com/user-attachments/assets/7d28fe37-a0ec-4170-a881-d580e1af2a0f)
 
 
 ## UV Curing of 3D printed part
+
 ![Screenshot 2024-11-23 122920](https://github.com/user-attachments/assets/c2602728-52cd-4c4e-a199-3e080c3adbce)
+
 ![Screenshot 2024-11-23 122930](https://github.com/user-attachments/assets/dfe61569-2f96-400c-a03f-df6a7e07ea55)
 
 ## Heat Treatment of 3D printed part
+
 ![Screenshot 2024-11-23 122948](https://github.com/user-attachments/assets/560ce4f2-7121-443d-be71-72a64631b95d)
-![Screenshot 2024-11-23 122948](https://github.com/user-attachments/assets/c173fa69-7ddd-4e92-ac2f-1d412d32d8c0)
+
+![Screenshot 2024-11-23 123002](https://github.com/user-attachments/assets/c08d089e-c07b-4154-a170-c4bceb69113a)
 
 ## Output:
 
